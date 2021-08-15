@@ -35,4 +35,4 @@ jobs:
       trained-model:
         type: dataset
         with:
-          ref: demo-dataset
+          ref: not-demo
